@@ -9,7 +9,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.6-EE4C2C.svg)](https://pytorch.org/)
 [![Venue](https://img.shields.io/badge/ICML-2026-68499b.svg)](https://icml.cc/virtual/2026/poster/61450)
 
-**Wei Deng**<sup>1,2</sup>, **Xianlin Zhang**<sup>2,3</sup>, **Mengshi Qi**<sup>\* 1,2</sup>
+[**Wei Deng**](https://dw-dengwe.cn)<sup>1,2</sup>, **Xianlin Zhang**<sup>2,3</sup>, [**Mengshi Qi**](https://jueduilingdu.github.io/)<sup>\* 1,2</sup>
 
 <sup>1</sup> State Key Laboratory of Networking and Switching Technology<br>
 <sup>2</sup> Beijing University of Posts and Telecommunications, China<br>
