@@ -28,7 +28,7 @@
 
 ## Overview
 
-We propose an **agentic pipeline for spatial reasoning** in Vision-Language Models (VLMs), Our approach introduces two key contributions:
+We propose an **agentic pipeline for spatial reasoning** in Vision-Language Models (VLMs), Our approach introduces three key contributions:
 1. We propose a novel agentic spatial reasoning pipeline
 within VLMs that maintains a dynamic cognitive map, a
 updatable memory parameterizing the spatial layout.
